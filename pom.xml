@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.springframework</groupId>
+        <groupId>com.github.knjyyy</groupId>
         <artifactId>mssc-brewery-bom</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>-SNAPSHOT</version>
     </parent>
 
     <artifactId>mssc-brewery-jpa-bom</artifactId>
