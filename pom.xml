@@ -10,6 +10,12 @@
         <version>-SNAPSHOT</version>
     </parent>
 
+<!--    <parent>-->
+<!--        <groupId>com.springframework</groupId>-->
+<!--        <artifactId>mssc-brewery-bom</artifactId>-->
+<!--        <version>1.0-SNAPSHOT</version>-->
+<!--    </parent>-->
+
     <artifactId>mssc-brewery-jpa-bom</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
